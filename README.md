@@ -40,7 +40,7 @@ This project focuses on analyzing government spending by department using Python
 
 ## Data
 
-* CSV File: The project expects a CSV file containing government budget data. Ensure the CSV file includes columns such as Department, Allocated_Budget, Spent_Budget, and Fiscal_Year. Place this file in the data directory and name it budget_data.csv.
+* CSV File: The project expects a CSV file containing government budget data. Ensure the CSV file includes columns such as Department, Allocated_Budget, Spent_Budget, and Fiscal_Year. Place this file in the data directory and name it Usa_budget_2023.csv.
 
 ## Results
 
